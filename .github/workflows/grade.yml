@@ -32,4 +32,4 @@ jobs:
       uses: cs272-0304-f23/action-go-grade@v0.3.4
       if: always()
       with:
-        rubricUrl: 'https://cs272-f24.github.io/rubric/lab02.json'
+        rubricUrl: 'https://cs272-f24.github.io/rubric/project04.json'
